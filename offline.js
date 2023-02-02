@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1675130986,
+	"version": 1675341652,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,11 @@
 		"images/使用手牌1-sheet0.png",
 		"images/捨棄手牌1-sheet0.png",
 		"images/走一步-sheet0.png",
+		"images/地圖-sheet0.png",
+		"images/肢體障礙棋子-sheet0.png",
+		"images/視覺障礙棋子-sheet0.png",
+		"images/聽覺障礙棋子-sheet0.png",
+		"images/普通人1-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
